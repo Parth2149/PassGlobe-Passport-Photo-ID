@@ -51,5 +51,5 @@ If we make any changes to this Privacy Policy, the updated version will be poste
 ### 7. Contact Us
 If you have any questions or feedback regarding this Privacy Policy, you can reach us at:
 
-- **Email:** support@passglobeapp.com *(or your developer contact email)*
-- **Developer Name:** PassGlobe Team
+- **Email:** drap.connect@gmail.com
+- **Developer Name:** AR Developer's
